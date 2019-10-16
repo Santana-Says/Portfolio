@@ -8,5 +8,5 @@
 I'm quite happy with the final product: Cinescribe allows users to search movies, see the associated cast & crew, and structure reviews to be posted onto social media platforms
 
 <p align="center">
-<img src="images/darkroom/DarkRoomMaster.png" width="230"  title="Cinescribe">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="230" title="Cinescribe">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="228" title="Cinescribe">
+<img src="images/Cinescribe/search.png" width="230"  title="Cinescribe">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Cinescribe/newReview.png" width="230" title="Cinescribe">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Cinescribe/Darkroom-demo.gif" width="228" title="Cinescribe">
 </p>
